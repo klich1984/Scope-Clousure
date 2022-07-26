@@ -30,6 +30,7 @@ console.log(animal) // Dog
 // animal = 'Cat' // Assignment to constant variable. No se puede reasignar una variable const
 // const animal = 'Snake' // no se puede redeclarar tampoco una variable const primitivas
 
+// Depende de lo que se declare en const puede ser inmutable o no
 const vehicles = []
 vehicles.push('Car')
-console.log(vehicles)
+console.log(vehicles) // ['Car']
