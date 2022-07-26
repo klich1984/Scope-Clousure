@@ -33,3 +33,9 @@ Permiten acceder aláambito de una función exterior desde una función interior
 A diferencia de otros conceptos com funciones, variables u otros. los closures no son siempre utilizados.
 
 Tienes una closure cuando una función cualquiera accede a una variable fuera de su contexto.
+
+## Debug
+
+Para abrir una pestaña en blanco en el navegador colocamos en la barra de navegación about:blank
+
+y en el codigo que queramos probar colocaremos la palabra **debugger** la cual nos hara una pausa en la linea donde se encuentre la palabra y podremos inspeccionar y ver que variables fueron asignadas al scope etc.
